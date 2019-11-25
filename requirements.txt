@@ -105,7 +105,7 @@ PyYAML==5.1.2
 pyzmq==18.1.1
 qtconsole==4.6.0
 rainbowhat==0.1.0
-requests==2.12.4
+requests==2.20.0
 requests-oauthlib==0.7.0
 roman==2.0.0
 RPi.GPIO==0.6.5
