@@ -94,7 +94,7 @@ pygobject==3.22.0
 pyinotify==0.9.6
 PyJWT==1.4.2
 pylint==1.6.5
-pyOpenSSL==16.2.0
+pyOpenSSL==17.5.0
 pyperclip==1.5.27
 pyrsistent==0.15.5
 pyserial==3.2.1
