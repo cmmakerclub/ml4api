@@ -126,7 +126,7 @@ sn3218==1.2.7
 spidev==3.3
 ssh-import-id==5.6
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.4
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
